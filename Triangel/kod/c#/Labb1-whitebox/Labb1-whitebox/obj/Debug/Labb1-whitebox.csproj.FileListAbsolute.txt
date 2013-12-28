@@ -1,0 +1,6 @@
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\bin\Debug\Labb1-whitebox.exe.config
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\bin\Debug\Labb1-whitebox.exe
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\bin\Debug\Labb1-whitebox.pdb
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\obj\Debug\Labb1-whitebox.csprojResolveAssemblyReference.cache
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\obj\Debug\Labb1-whitebox.exe
+c:\users\laptop2\documents\visual studio 2012\Projects\Labb1-whitebox\Labb1-whitebox\obj\Debug\Labb1-whitebox.pdb
